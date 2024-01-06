@@ -90,10 +90,6 @@ Table of contents
 7.Control and Conditional statements.
 
 
-Do Visit my blogs for precise explanation of the above mentioned topics
-the link is given below
-
-
 
 
 
