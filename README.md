@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://www.bing.com/images/create/another-humorous-image-of-learning-python-with-a-f/1-6598fecf906b4c7389791aff3635b720?id=nBT0b5iAWrY2EoKfHLwy%2bA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
+(![App Screenshot](https://unsplash.com/photos/white-robot-toy-holding-black-tablet-K21Dn4OVxNw))
 
 
 # Python Basics
